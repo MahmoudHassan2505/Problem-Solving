@@ -1,7 +1,7 @@
 package org.example;
 
 import java.util.Scanner;
-
+//71A
 public class WayTooLongWords {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
