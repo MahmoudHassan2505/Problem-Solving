@@ -1,4 +1,4 @@
-package org.example;
+package org.example.D800;
 
 import java.util.*;
 
@@ -15,5 +15,6 @@ public class BoyOrGirl {
             System.out.println("CHAT WITH HER!");
         else
             System.out.println("IGNORE HIM!");
+
     }
 }

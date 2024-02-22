@@ -1,4 +1,4 @@
-package org.example;
+package org.example.D800;
 
 import java.util.Arrays;
 import java.util.Scanner;
