@@ -20,5 +20,3 @@ R
 "src/main/java/org/example/Bit.java,8\2\821a1bd8b5183cbe6154786d8a44955211414526
 [
 +src/main/java/org/example/DominoPiling.java,3\d\3ddddde3e6cd9532ca3ca4a76e7ab89f4d6a0ba0
-^
-.src/main/java/org/example/BeautifulMatrix.java,7\a\7aa5bad7c1972383c8da0aa0d738f2da4aceaa2d
