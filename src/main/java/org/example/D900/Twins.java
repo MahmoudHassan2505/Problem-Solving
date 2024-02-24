@@ -12,19 +12,20 @@ public class Twins {
         int count = scan.nextInt();
         int [] coins = new int[count];
 
+        int sumOfPicked = 0;
+        int sumOfRest = 0;
+
         for (int i =0; i<count;i++){
             coins[i]=scan.nextInt();
+            sumOfRest+=coins[i];
         }
 
         Arrays.sort(coins);
-        int sumOfPicked = 0;
+
 
         for (int i = coins.length-1;i>=0;i--){
             sumOfPicked+=coins[i];
-            int sumOfRest = 0;
-            for (int j =0;j<i;j++){
-                sumOfRest+=coins[j];
-            }
+            sumOfRest-=coins[i];
             if (sumOfPicked>sumOfRest){
                 System.out.println(count-i);
                 break;
