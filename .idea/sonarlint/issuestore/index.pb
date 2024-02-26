@@ -18,3 +18,17 @@ c
 3src/main/java/org/example/D800/PetyaAndStrings.java,e\6\e666a3f919da661a413f275061f49f0fe75ee758
 c
 3src/main/java/org/example/D800/BeautifulMatrix.java,6\7\67cb92dfe8a37afa37f9a09f63e6d92b4021fb27
+_
+/src/main/java/org/example/D900/GravityFlip.java,a\0\a01952a7849782dd8e3c0955597a42119c2e47c8
+W
+'src/main/java/org/example/D900/HQ9.java,b\e\becfe78622f63154b2563f0658081c3a7f19b2b7
+[
++src/main/java/org/example/D900/Dubstep.java,e\5\e5b6c20e728c217a4b7dab7fc7709c1e16bc833e
+b
+2src/main/java/org/example/D900/KefaFirstSteps.java,a\5\a58bf75576b84f44e3fe2044fa8c666e1a07d933
+\
+,src/main/java/org/example/D900/Football.java,5\c\5c7720b3a89a1bed3b4089d6c064fcb8484086b9
+\
+,src/main/java/org/example/D900/EvenOdds.java,4\6\46c6ae5659a9c37a869bbfc8552b930db4b56d22
+Y
+)src/main/java/org/example/D900/Twins.java,a\2\a22d6de21b5f88f5c15e805f513b34e51b44b35e
