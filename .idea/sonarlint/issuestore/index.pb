@@ -32,3 +32,7 @@ b
 ,src/main/java/org/example/D900/EvenOdds.java,4\6\46c6ae5659a9c37a869bbfc8552b930db4b56d22
 Y
 )src/main/java/org/example/D900/Twins.java,a\2\a22d6de21b5f88f5c15e805f513b34e51b44b35e
+b
+2src/main/java/org/example/D900/GameWithSticks.java,8\b\8bc1f09342ffec2c6c937cb2a396b1e918e03c38
+[
++src/main/java/org/example/D900/Puzzles.java,0\9\09f7fffb68b2209706e9eee085f747ba0cfc5b3b
