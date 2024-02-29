@@ -9,7 +9,8 @@ public class OddDivisor {
         int numberOfTestCase = scan.nextInt();
 
         for (int i =0;i<numberOfTestCase;i++){
-            long n = scan.nextLong();
+            long number = scan.nextLong();
+
             
         }
 
