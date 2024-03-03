@@ -3,7 +3,7 @@ package org.example.D900;
 import java.util.Scanner;
 
 //1343A
-public class Candies {
+public class CandiesNotSolved {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int numOfTests = scan.nextInt();

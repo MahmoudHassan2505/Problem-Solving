@@ -26,13 +26,15 @@ W
 'src/main/java/org/example/D900/HQ9.java,b\e\becfe78622f63154b2563f0658081c3a7f19b2b7
 [
 +src/main/java/org/example/D900/Dubstep.java,e\5\e5b6c20e728c217a4b7dab7fc7709c1e16bc833e
-b
-2src/main/java/org/example/D900/KefaFirstSteps.java,a\5\a58bf75576b84f44e3fe2044fa8c666e1a07d933
 \
 ,src/main/java/org/example/D900/EvenOdds.java,4\6\46c6ae5659a9c37a869bbfc8552b930db4b56d22
 \
 ,src/main/java/org/example/D900/Football.java,5\c\5c7720b3a89a1bed3b4089d6c064fcb8484086b9
 b
 2src/main/java/org/example/D900/GameWithSticks.java,8\b\8bc1f09342ffec2c6c937cb2a396b1e918e03c38
+f
+6src/main/java/org/example/D900/IlyaAndBankAccount.java,b\2\b2aae986d8f136ad5e1bc82139568744d02b3a9b
+a
+1src/main/java/org/example/D900/NewYearNumber.java,3\b\3b72bec2f4c2351b5c62de6944239fc27ccd1d88
 [
 +src/main/java/org/example/D900/Puzzles.java,0\9\09f7fffb68b2209706e9eee085f747ba0cfc5b3b
