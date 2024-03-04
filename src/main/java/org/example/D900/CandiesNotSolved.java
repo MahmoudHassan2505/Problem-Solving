@@ -7,11 +7,11 @@ public class CandiesNotSolved {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int numOfTests = scan.nextInt();
+        int x = 0;
         for (int i =0;i<numOfTests;i++){
             int numOfCandies = scan.nextInt();
-            int numOfDays =0;
-           for (int x =1;;){
-                
+           for (int j =1;;j++){
+
            }
         }
     }

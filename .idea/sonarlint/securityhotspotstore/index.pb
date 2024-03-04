@@ -38,3 +38,15 @@ a
 1src/main/java/org/example/D900/NewYearNumber.java,3\b\3b72bec2f4c2351b5c62de6944239fc27ccd1d88
 [
 +src/main/java/org/example/D900/Puzzles.java,0\9\09f7fffb68b2209706e9eee085f747ba0cfc5b3b
+X
+(src/main/java/org/example/D900/Sale.java,6\4\64b96fb13d682f5fb32290aa62c0aa1230bd4c87
+b
+2src/main/java/org/example/D900/KefaFirstSteps.java,a\5\a58bf75576b84f44e3fe2044fa8c666e1a07d933
+i
+9src/main/java/org/example/D900/Multiplyby2_divideby6.java,8\0\80d1b31cae8d2fe1983d36f4d90d664b63687615
+^
+.src/main/java/org/example/D900/OddDivisor.java,a\2\a2ad3d7f627b9bb151bcb74b0549eadfda8150bc
+m
+=src/main/java/org/example/D800/StonesOnTheTableNotSolved.java,1\3\139513179eb87fc1980aaddc274142660be11c21
+d
+4src/main/java/org/example/D900/CandiesNotSolved.java,6\e\6e71b579d5ed97f5454bf97930fed4061ce76c86
