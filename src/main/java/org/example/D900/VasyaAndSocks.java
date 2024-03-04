@@ -11,11 +11,20 @@ public class VasyaAndSocks {
 
         int days = n;
         int x = n;
-        
-        while(x/m >0){
-            x/=m;
-            days+=x;
+        int r =0;
+        int newX=n;
+        int newR=0;
+        while((newX+newR)/m >0){
+            newX=(x+r)/m;
+            newR=(x+r)%m;
+
+            days+=newX;
+            x=newX;
+            r=newR;
         }
         System.out.println(days);
     }
 }
+
+//I used modulus because if there is 5 socks then after it finished then will be 2 new one
+// and the last day will be ignored so we use modulus to save it for future
