@@ -13,7 +13,7 @@ public class CaseOfTheZerosAndOnes {
         int numOfZeros =0;
 
         for (int i=0;i<length;i++){
-            if(Integer.parseInt(""+input.charAt(i)) ==1){
+            if(input.charAt(i) =='1'){
                 numOfOnes++;
             }else {
                 numOfZeros++;
