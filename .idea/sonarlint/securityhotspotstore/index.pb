@@ -50,3 +50,9 @@ m
 =src/main/java/org/example/D800/StonesOnTheTableNotSolved.java,1\3\139513179eb87fc1980aaddc274142660be11c21
 d
 4src/main/java/org/example/D900/CandiesNotSolved.java,6\e\6e71b579d5ed97f5454bf97930fed4061ce76c86
+\
+,src/main/java/org/example/D900/Keyboard.java,4\6\46f09f0a58514bb5628d1a7c9a6923b578f3b0c7
+a
+1src/main/java/org/example/D900/VasyaAndSocks.java,1\2\120c04a96d27799d1b8066f28c5106a56ac6bcdf
+`
+0src/main/java/org/example/D900/BusinessTrip.java,d\d\dd398a78a27190e36441352126e2d1792e7dd8f0
