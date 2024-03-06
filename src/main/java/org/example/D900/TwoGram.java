@@ -3,7 +3,7 @@ package org.example.D900;
 import java.util.*;
 
 //977B
-public class Twogram {
+public class TwoGram {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int size =scan.nextInt();

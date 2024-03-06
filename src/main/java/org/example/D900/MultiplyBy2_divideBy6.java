@@ -3,7 +3,7 @@ package org.example.D900;
 import java.util.Scanner;
 
 //1374B
-public class Multiplyby2_divideby6 {
+public class MultiplyBy2_divideBy6 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 

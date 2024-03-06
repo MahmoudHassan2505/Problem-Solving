@@ -3,7 +3,7 @@ package org.example.D900;
 import java.util.Scanner;
 
 //313A
-public class IlyaAndBankAccount {
+public class LlyaAndBankAccount {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int n = scan.nextInt();

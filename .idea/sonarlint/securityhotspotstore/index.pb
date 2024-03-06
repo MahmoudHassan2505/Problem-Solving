@@ -46,8 +46,6 @@ i
 9src/main/java/org/example/D900/Multiplyby2_divideby6.java,8\0\80d1b31cae8d2fe1983d36f4d90d664b63687615
 ^
 .src/main/java/org/example/D900/OddDivisor.java,a\2\a2ad3d7f627b9bb151bcb74b0549eadfda8150bc
-m
-=src/main/java/org/example/D800/StonesOnTheTableNotSolved.java,1\3\139513179eb87fc1980aaddc274142660be11c21
 d
 4src/main/java/org/example/D900/CandiesNotSolved.java,6\e\6e71b579d5ed97f5454bf97930fed4061ce76c86
 \

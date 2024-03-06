@@ -46,8 +46,6 @@ X
 (src/main/java/org/example/D900/Sale.java,6\4\64b96fb13d682f5fb32290aa62c0aa1230bd4c87
 ^
 .src/main/java/org/example/D900/OddDivisor.java,a\2\a2ad3d7f627b9bb151bcb74b0549eadfda8150bc
-m
-=src/main/java/org/example/D800/StonesOnTheTableNotSolved.java,1\3\139513179eb87fc1980aaddc274142660be11c21
 d
 4src/main/java/org/example/D900/CandiesNotSolved.java,6\e\6e71b579d5ed97f5454bf97930fed4061ce76c86
 a
