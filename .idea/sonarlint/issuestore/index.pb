@@ -32,8 +32,6 @@ Y
 )src/main/java/org/example/D900/Twins.java,a\2\a22d6de21b5f88f5c15e805f513b34e51b44b35e
 b
 2src/main/java/org/example/D900/GameWithSticks.java,8\b\8bc1f09342ffec2c6c937cb2a396b1e918e03c38
-f
-6src/main/java/org/example/D900/IlyaAndBankAccount.java,b\2\b2aae986d8f136ad5e1bc82139568744d02b3a9b
 a
 1src/main/java/org/example/D900/NewYearNumber.java,3\b\3b72bec2f4c2351b5c62de6944239fc27ccd1d88
 [
@@ -54,3 +52,13 @@ a
 ,src/main/java/org/example/D900/Keyboard.java,4\6\46f09f0a58514bb5628d1a7c9a6923b578f3b0c7
 `
 0src/main/java/org/example/D900/BusinessTrip.java,d\d\dd398a78a27190e36441352126e2d1792e7dd8f0
+o
+?src/main/java/org/example/D900/ConstructTheStringNotSolved.java,e\c\ecaa4f0b3a8677afa9e5aa992ac1554b9066e060
+i
+9src/main/java/org/example/D900/CaseOfTheZerosAndOnes.java,9\f\9f9090a5147d2e90f7ff0f62e9b7e1d7e5ae4839
+\
+,src/main/java/org/example/D800/Elephant.java,a\e\ae94a010564268a6de51553a115fc1dde9dcc2d0
+[
++src/main/java/org/example/D900/TwoGram.java,9\d\9d6fe9e6c302140c76eee7e0ff4fc1070a507303
+e
+5src/main/java/org/example/D800/BearAndBigBrother.java,f\8\f8a872f6a49e5ae6ac14b5ce095f14a4dffc002e
