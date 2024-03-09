@@ -62,3 +62,7 @@ o
 +src/main/java/org/example/D900/TwoGram.java,9\d\9d6fe9e6c302140c76eee7e0ff4fc1070a507303
 e
 5src/main/java/org/example/D800/BearAndBigBrother.java,f\8\f8a872f6a49e5ae6ac14b5ce095f14a4dffc002e
+d
+4src/main/java/org/example/D800/StonesOnTheTable.java,7\2\72fe8689a1efda408f4600e3871341ac6d716bad
+c
+3src/main/java/org/example/D900/MakeAPNotSolved.java,8\4\84727bbf18beb3f856f24c2814005692583785df
